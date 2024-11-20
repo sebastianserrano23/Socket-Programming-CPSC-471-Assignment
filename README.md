@@ -6,3 +6,5 @@ Sebastian Serrano
 serranosebastian23@csu.fullerton.edu
 Kevin Zhuang
 kevin-has-small-nuts@csu.fullerton.edu
+
+Programming language used: Python
